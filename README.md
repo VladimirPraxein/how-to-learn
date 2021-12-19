@@ -1,4 +1,3 @@
-# how-to-learn
-first-project
+# first-project
 Проект о том как правильно учиться. 
 
