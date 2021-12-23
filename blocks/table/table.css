@@ -3,5 +3,7 @@
   justify-content: space-between;
   width: 1090px;
   flex-wrap: wrap;
-  padding: 0 0 0 10px;
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
 }
